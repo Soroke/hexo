@@ -1,7 +1,8 @@
 ---
 title: 使用docker和docker-compose启动Jenkins
 date: 2020-11-18 22:04:55
-tags:
+tags: Jenkins
+categories: 运维
 ---
 
 ## 基础环境
