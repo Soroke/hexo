@@ -1,7 +1,7 @@
 ---
 title: 使用docker和docker-compose启动Jenkins
 date: 2020-11-18 22:04:55
-tags: Jenkins
+tags: [Jenkins,docker]
 categories: 运维
 ---
 
@@ -34,7 +34,7 @@ jenkins:
     container_name: Jenkins
 ```
 
-
+<!--more-->
 
 ## 启动jenkins
 
